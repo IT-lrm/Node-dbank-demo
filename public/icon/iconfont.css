@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1651586366838') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-wenjian:before {
+  content: "\e664";
+}
+
+.icon-wenjianjia:before {
+  content: "\e603";
+}
+
+.icon-wenjian1:before {
+  content: "\e613";
+}
+
+.icon-wenjian2:before {
+  content: "\e614";
+}
+
+.icon-wenjian3:before {
+  content: "\e6ee";
+}
+
+.icon-wenjianjia1:before {
+  content: "\e651";
+}
+
+.icon-wenjianjia2:before {
+  content: "\e71c";
+}
+
+.icon-wenjian4:before {
+  content: "\e619";
+}
+

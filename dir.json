@@ -1,0 +1,159 @@
+{
+  "name": "D:\\Desktop\\Node\\dbank-lrm\\assets",
+  "path": "D:\\Desktop\\Node\\dbank-lrm\\assets",
+  "dir": [
+    {
+      "name": "20220419",
+      "path": "D:\\Desktop\\Node\\dbank-lrm\\assets/20220419",
+      "dir": [
+        "callback.js",
+        "cps.js",
+        "oldschool.js"
+      ]
+    },
+    {
+      "name": "20220420",
+      "path": "D:\\Desktop\\Node\\dbank-lrm\\assets/20220420",
+      "dir": [
+        "callback.js",
+        "events.js",
+        "eventsbyargs.js",
+        "myTV-obs.js",
+        "myTV.js",
+        "observer-pattern-callback.js",
+        "observer-pattern.js"
+      ]
+    },
+    {
+      "name": "20220421",
+      "path": "D:\\Desktop\\Node\\dbank-lrm\\assets/20220421",
+      "dir": [
+        "es6-class.js",
+        "es6-extends.js",
+        "events-extends.js",
+        "events.js"
+      ]
+    },
+    {
+      "name": "20220422",
+      "path": "D:\\Desktop\\Node\\dbank-lrm\\assets/20220422",
+      "dir": [
+        ".DS_Store",
+        {
+          "name": "http-server",
+          "path": "D:\\Desktop\\Node\\dbank-lrm\\assets/20220422/http-server",
+          "dir": [
+            "package.json",
+            "server-v2.js",
+            "server.js"
+          ]
+        },
+        {
+          "name": "review",
+          "path": "D:\\Desktop\\Node\\dbank-lrm\\assets/20220422/review",
+          "dir": [
+            "class.html"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "20220424",
+      "path": "D:\\Desktop\\Node\\dbank-lrm\\assets/20220424",
+      "dir": [
+        {
+          "name": "http-server",
+          "path": "D:\\Desktop\\Node\\dbank-lrm\\assets/20220424/http-server",
+          "dir": [
+            "package.json",
+            "server-blog.js",
+            "server-post.js",
+            "server-statuscode.js",
+            "server.js"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "20220425",
+      "path": "D:\\Desktop\\Node\\dbank-lrm\\assets/20220425",
+      "dir": [
+        {
+          "name": "http-server",
+          "path": "D:\\Desktop\\Node\\dbank-lrm\\assets/20220425/http-server",
+          "dir": [
+            "package.json",
+            "server.js"
+          ]
+        },
+        "httpserver.js",
+        "url.js"
+      ]
+    },
+    {
+      "name": "20220429",
+      "path": "D:\\Desktop\\Node\\dbank-lrm\\assets/20220429",
+      "dir": [
+        ".DS_Store",
+        {
+          "name": "esm",
+          "path": "D:\\Desktop\\Node\\dbank-lrm\\assets/20220429/esm",
+          "dir": [
+            "index.js",
+            "package.json"
+          ]
+        },
+        {
+          "name": "http-static-server",
+          "path": "D:\\Desktop\\Node\\dbank-lrm\\assets/20220429/http-static-server",
+          "dir": [
+            "package.json",
+            {
+              "name": "public",
+              "path": "D:\\Desktop\\Node\\dbank-lrm\\assets/20220429/http-static-server/public",
+              "dir": [
+                "a.txt",
+                "b.js",
+                "c.css",
+                "index.html"
+              ]
+            },
+            "server.js"
+          ]
+        },
+        "path.js",
+        {
+          "name": "test-path",
+          "path": "D:\\Desktop\\Node\\dbank-lrm\\assets/20220429/test-path",
+          "dir": [
+            "1.txt",
+            "test_dirname.js"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "filesdir01",
+      "path": "D:\\Desktop\\Node\\dbank-lrm\\assets/filesdir01",
+      "dir": [
+        "1.md",
+        "a.docx",
+        "b.xlsx",
+        "c.pdf",
+        "hello.js",
+        "常用的命令.md"
+      ]
+    },
+    {
+      "name": "filesdir02",
+      "path": "D:\\Desktop\\Node\\dbank-lrm\\assets/filesdir02",
+      "dir": [
+        "1.md",
+        "a.docx",
+        "b.xlsx",
+        "hello.js",
+        "常用的命令.md"
+      ]
+    }
+  ]
+}
